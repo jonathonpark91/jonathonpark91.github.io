@@ -468,9 +468,10 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
 
 #portfolio{
     padding-top:70px;
-    background:url('../images/bg-portfolio.jpg') no-repeat fixed;
+    background:url('../images/bg-portfolio.png') no-repeat fixed;
     background-size:cover;
     color:#fff;
+    background-color:rgba(60, 105, 115);
 }
 
 .touch #portfolio{
